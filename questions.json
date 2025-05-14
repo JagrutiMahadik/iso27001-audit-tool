@@ -1,0 +1,10 @@
+{
+  "Access Control": [
+    "Are user access rights reviewed regularly?",
+    "Is there a documented user access policy?"
+  ],
+  "HR Security": [
+    "Are employees trained on information security policies?",
+    "Are background checks performed before hiring?"
+  ]
+}
