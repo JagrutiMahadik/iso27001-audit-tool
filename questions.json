@@ -1,10 +1,52 @@
 {
   "Access Control": [
     "Are user access rights reviewed regularly?",
-    "Is there a documented user access policy?"
+    "Is there a documented user access policy?",
+    "Are strong authentication mechanisms implemented?"
   ],
-  "HR Security": [
+  "Human Resource Security": [
     "Are employees trained on information security policies?",
-    "Are background checks performed before hiring?"
+    "Are background checks performed before hiring?",
+    "Is there a disciplinary process for security breaches?"
+  ],
+  "Cryptography": [
+    "Is there a documented cryptographic policy?",
+    "Are encryption methods used for sensitive data?",
+    "Are cryptographic keys securely stored and rotated regularly?"
+  ],
+  "Operations Security": [
+    "Are system logs monitored and reviewed regularly?",
+    "Are backup processes tested and verified?",
+    "Is anti-malware protection deployed and updated?"
+  ],
+  "Communications Security": [
+    "Is sensitive information encrypted during transmission?",
+    "Are network communications monitored for anomalies?",
+    "Are secure channels used for remote access?"
+  ],
+  "System Acquisition, Development, Maintenance": [
+    "Are security requirements defined during system acquisition?",
+    "Are systems tested for vulnerabilities before deployment?",
+    "Is change management implemented for system updates?"
+  ],
+  "Supplier Relationships": [
+    "Are third-party vendors evaluated for security risks?",
+    "Is there a formal contract including security clauses with suppliers?",
+    "Are suppliers' compliance regularly assessed?"
+  ],
+  "Incident Management": [
+    "Is there an established incident response plan?",
+    "Are incidents documented and reviewed after resolution?",
+    "Are employees trained to report security incidents?"
+  ],
+  "Business Continuity": [
+    "Is there a documented Business Continuity Plan (BCP)?",
+    "Are BCP and DR plans tested regularly?",
+    "Are critical business functions identified and protected?"
+  ],
+  "Compliance": [
+    "Is the organization compliant with applicable legal and regulatory requirements?",
+    "Are regular compliance audits conducted?",
+    "Is there a process for handling personal data as per privacy laws?"
   ]
 }
